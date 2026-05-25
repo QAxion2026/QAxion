@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#00BCD4</color>
+
+    <!-- Server colors -->
+    <color name="color_zait">#1565C0</color>
+    <color name="color_inova">#2E7D32</color>
+
+    <!-- Background -->
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_border">#E8ECF0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_hint">#A0AEC0</color>
+
+    <!-- Status -->
+    <color name="success">#38A169</color>
+    <color name="warning">#D69E2E</color>
+    <color name="error">#E53E3E</color>
+
+    <!-- UI -->
+    <color name="divider">#EDF2F7</color>
+    <color name="chip_default">#EDF2F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="splash_bg_start">#0D1B2A</color>
+    <color name="splash_bg_end">#1565C0</color>
+</resources>

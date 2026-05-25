@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QAxion SGI</string>
+    <string name="select_server">Selecionar Servidor</string>
+    <string name="select_obra">Selecionar Obra</string>
+    <string name="custom_url">URL Personalizada</string>
+    <string name="no_connection">Sem conexão com a internet</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="loading">Carregando…</string>
+</resources>
